@@ -1,0 +1,142 @@
+C:\Users\Asus\Desktop\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.exe.config
+C:\Users\Asus\Desktop\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.exe
+C:\Users\Asus\Desktop\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.pdb
+C:\Users\Asus\Desktop\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Form1.resources
+C:\Users\Asus\Desktop\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Properties.Resources.resources
+C:\Users\Asus\Desktop\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.exe
+C:\Users\Asus\Desktop\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.pdb
+C:\Users\HH\source\repos\MARIO NỘP\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.exe.config
+C:\Users\HH\source\repos\MARIO NỘP\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.exe
+C:\Users\HH\source\repos\MARIO NỘP\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.pdb
+C:\Users\HH\source\repos\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.csproj.AssemblyReference.cache
+C:\Users\HH\source\repos\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Form1.resources
+C:\Users\HH\source\repos\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Properties.Resources.resources
+C:\Users\HH\source\repos\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.csproj.GenerateResource.cache
+C:\Users\HH\source\repos\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.csproj.CoreCompileInputs.cache
+C:\Users\HH\source\repos\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.exe
+C:\Users\HH\source\repos\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.pdb
+C:\Users\HH\source\repos\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Lv4.resources
+C:\Users\HH\source\repos\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Menu.resources
+D:\MARIO NỘP\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.exe.config
+D:\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.exe
+D:\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.pdb
+D:\MARIO NỘP\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.exe
+D:\MARIO NỘP\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.pdb
+D:\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.csprojResolveAssemblyReference.cache
+D:\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Form1.resources
+D:\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Lv4.resources
+D:\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Menu.resources
+D:\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Properties.Resources.resources
+D:\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.csproj.GenerateResource.Cache
+D:\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.lv1.resources
+C:\Users\DELL\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Form1.resources
+C:\Users\DELL\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.lv1.resources
+C:\Users\DELL\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Lv4.resources
+C:\Users\DELL\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Menu.resources
+C:\Users\DELL\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Properties.Resources.resources
+C:\Users\DELL\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.exe
+C:\Users\DELL\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.pdb
+C:\Users\DELL\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.exe.config
+C:\Users\DELL\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.exe
+C:\Users\DELL\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.pdb
+C:\Users\DELL\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.lv2.resources
+D:\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.lv2.resources
+C:\Users\HoaDuyen\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.exe.config
+C:\Users\HoaDuyen\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.exe
+C:\Users\HoaDuyen\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.pdb
+C:\Users\HoaDuyen\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.csproj.AssemblyReference.cache
+C:\Users\HoaDuyen\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Form1.resources
+C:\Users\HoaDuyen\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.lv1.resources
+C:\Users\HoaDuyen\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.lv2.resources
+C:\Users\HoaDuyen\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.lv3.resources
+C:\Users\HoaDuyen\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Lv4.resources
+C:\Users\HoaDuyen\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Menu.resources
+C:\Users\HoaDuyen\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Properties.Resources.resources
+C:\Users\HoaDuyen\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.csproj.GenerateResource.cache
+C:\Users\HoaDuyen\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.csproj.CoreCompileInputs.cache
+C:\Users\HoaDuyen\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.exe
+C:\Users\HoaDuyen\Downloads\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.pdb
+C:\Users\HH\source\repos\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.lv1.resources
+C:\Users\HH\source\repos\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.lv2.resources
+C:\Users\HH\source\repos\MARIO NỘP\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.lv3.resources
+C:\Users\HH\source\repos\MARIO NỘP (1)\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.exe.config
+C:\Users\HH\source\repos\MARIO NỘP (1)\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.exe
+C:\Users\HH\source\repos\MARIO NỘP (1)\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.pdb
+C:\Users\HH\source\repos\MARIO NỘP (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.csproj.AssemblyReference.cache
+C:\Users\HH\source\repos\MARIO NỘP (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Form1.resources
+C:\Users\HH\source\repos\MARIO NỘP (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.lv1.resources
+C:\Users\HH\source\repos\MARIO NỘP (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.lv2.resources
+C:\Users\HH\source\repos\MARIO NỘP (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.lv3.resources
+C:\Users\HH\source\repos\MARIO NỘP (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Lv4.resources
+C:\Users\HH\source\repos\MARIO NỘP (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.lv5.resources
+C:\Users\HH\source\repos\MARIO NỘP (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Menu.resources
+C:\Users\HH\source\repos\MARIO NỘP (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Properties.Resources.resources
+C:\Users\HH\source\repos\MARIO NỘP (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.csproj.GenerateResource.cache
+C:\Users\HH\source\repos\MARIO NỘP (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.csproj.CoreCompileInputs.cache
+C:\Users\HH\source\repos\MARIO NỘP (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.exe
+C:\Users\HH\source\repos\MARIO NỘP (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.pdb
+C:\Users\HH\source\repos\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.exe.config
+C:\Users\HH\source\repos\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.exe
+C:\Users\HH\source\repos\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.pdb
+C:\Users\HH\source\repos\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.lv1.resources
+C:\Users\HH\source\repos\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.lv2.resources
+C:\Users\HH\source\repos\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.lv3.resources
+C:\Users\HH\source\repos\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Lv4.resources
+C:\Users\HH\source\repos\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Menu.resources
+C:\Users\HH\source\repos\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Properties.Resources.resources
+C:\Users\HH\source\repos\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.csproj.GenerateResource.cache
+C:\Users\HH\source\repos\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.csproj.CoreCompileInputs.cache
+C:\Users\HH\source\repos\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.exe
+C:\Users\HH\source\repos\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.pdb
+C:\Users\HH\source\repos\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.MenuPause.resources
+C:\Users\Asus\Downloads\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.exe.config
+C:\Users\Asus\Downloads\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.exe
+C:\Users\Asus\Downloads\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.pdb
+C:\Users\Asus\Downloads\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.lv1.resources
+C:\Users\Asus\Downloads\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.lv2.resources
+C:\Users\Asus\Downloads\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.lv3.resources
+C:\Users\Asus\Downloads\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Lv4.resources
+C:\Users\Asus\Downloads\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Menu.resources
+C:\Users\Asus\Downloads\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.MenuPause.resources
+C:\Users\Asus\Downloads\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Properties.Resources.resources
+C:\Users\Asus\Downloads\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.exe
+C:\Users\Asus\Downloads\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.pdb
+C:\Users\Asus\Downloads\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.HuongDan.resources
+C:\Users\HH\source\repos\MARIO NỘP (1) (1)\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.HuongDan.resources
+C:\Users\Asus\Downloads\MARIO\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.exe.config
+C:\Users\Asus\Downloads\MARIO\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.exe
+C:\Users\Asus\Downloads\MARIO\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.pdb
+C:\Users\Asus\Downloads\MARIO\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\MARIO\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.HuongDan.resources
+C:\Users\Asus\Downloads\MARIO\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.lv1.resources
+C:\Users\Asus\Downloads\MARIO\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.lv2.resources
+C:\Users\Asus\Downloads\MARIO\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.lv3.resources
+C:\Users\Asus\Downloads\MARIO\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Lv4.resources
+C:\Users\Asus\Downloads\MARIO\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.menu.resources
+C:\Users\Asus\Downloads\MARIO\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.MenuPause.resources
+C:\Users\Asus\Downloads\MARIO\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Properties.Resources.resources
+C:\Users\Asus\Downloads\MARIO\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\MARIO\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.exe
+C:\Users\Asus\Downloads\MARIO\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.pdb
+C:\Users\HH\source\repos\MARIO\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.exe.config
+C:\Users\HH\source\repos\MARIO\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.exe
+C:\Users\HH\source\repos\MARIO\Mario_IM91\Mario_IM91\bin\Debug\Mario_IM91.pdb
+C:\Users\HH\source\repos\MARIO\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.HuongDan.resources
+C:\Users\HH\source\repos\MARIO\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.lv1.resources
+C:\Users\HH\source\repos\MARIO\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.lv2.resources
+C:\Users\HH\source\repos\MARIO\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.lv3.resources
+C:\Users\HH\source\repos\MARIO\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Lv4.resources
+C:\Users\HH\source\repos\MARIO\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.menu.resources
+C:\Users\HH\source\repos\MARIO\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.MenuPause.resources
+C:\Users\HH\source\repos\MARIO\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.Properties.Resources.resources
+C:\Users\HH\source\repos\MARIO\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.csproj.GenerateResource.cache
+C:\Users\HH\source\repos\MARIO\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.csproj.CoreCompileInputs.cache
+C:\Users\HH\source\repos\MARIO\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.exe
+C:\Users\HH\source\repos\MARIO\Mario_IM91\Mario_IM91\obj\Debug\Mario_IM91.pdb

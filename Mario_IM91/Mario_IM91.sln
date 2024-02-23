@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mario_IM91", "Mario_IM91\Mario_IM91.csproj", "{70FE6412-627B-43FE-B37B-87F784F47710}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupMario", "D:\SetupMario\SetupMario.vdproj", "{1B8E8589-39A5-4DCD-A292-6D4761F0C0B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70FE6412-627B-43FE-B37B-87F784F47710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70FE6412-627B-43FE-B37B-87F784F47710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70FE6412-627B-43FE-B37B-87F784F47710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70FE6412-627B-43FE-B37B-87F784F47710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B8E8589-39A5-4DCD-A292-6D4761F0C0B4}.Debug|Any CPU.ActiveCfg = Debug
+		{1B8E8589-39A5-4DCD-A292-6D4761F0C0B4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B729531-0C8D-48EF-AEC3-4E1FB99067D0}
+	EndGlobalSection
+EndGlobal

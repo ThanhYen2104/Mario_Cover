@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{70FE6412-627B-43FE-B37B-87F784F47710}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Mario_IM91</RootNamespace>
+    <AssemblyName>Mario_IM91</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Fire.cs" />
+    <Compile Include="HuongDan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HuongDan.Designer.cs">
+      <DependentUpon>HuongDan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lv1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lv1.Designer.cs">
+      <DependentUpon>lv1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lv2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lv2.Designer.cs">
+      <DependentUpon>lv2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lv3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lv3.Designer.cs">
+      <DependentUpon>lv3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lv4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lv4.Designer.cs">
+      <DependentUpon>Lv4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu.Designer.cs">
+      <DependentUpon>menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPause.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuPause.Designer.cs">
+      <DependentUpon>MenuPause.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="HuongDan.resx">
+      <DependentUpon>HuongDan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lv1.resx">
+      <DependentUpon>lv1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lv2.resx">
+      <DependentUpon>lv2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lv3.resx">
+      <DependentUpon>lv3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lv4.resx">
+      <DependentUpon>Lv4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu.resx">
+      <DependentUpon>menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuPause.resx">
+      <DependentUpon>MenuPause.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="MARIO NỘP.rar" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\picture\Ground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\picture\m.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\picture\pipe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\picture\Enemy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\picture\coin.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\picture\block.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\picture\flower.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\picture\nam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\picture\item.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\picture\Plant.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\picture\health.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\picture\cloud.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\picture\gachsoc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\picture\gachtrang.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\picture\khunggachtrang.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\picture\bglua.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullet %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pipe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\castle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bowser.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bowser %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banner.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\princess.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\princess1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\princess %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\end.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
